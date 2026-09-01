@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 3cad7b53d61b8914db14a65d60e83c5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 343640915227132568
+    second: pizza outbreak logo_0
+  - first:
+      213: 6716701656616438315
+    second: pizza outbreak logo_1
+  - first:
+      213: 1415446598858574071
+    second: pizza outbreak logo_2
+  - first:
+      213: 7799675633056371280
+    second: pizza outbreak logo_3
+  - first:
+      213: -7157680166085222632
+    second: pizza outbreak logo_4
+  - first:
+      213: 186428503635016347
+    second: pizza outbreak logo_5
+  - first:
+      213: 8233583422110748480
+    second: pizza outbreak logo_6
+  - first:
+      213: -8943785452022206069
+    second: pizza outbreak logo_7
+  - first:
+      213: 8015535291886492788
+    second: pizza outbreak logo_8
+  - first:
+      213: 9075170869122807216
+    second: pizza outbreak logo_9
+  - first:
+      213: -6890547885326888017
+    second: pizza outbreak logo_10
+  - first:
+      213: 4826997734670499123
+    second: pizza outbreak logo_11
+  - first:
+      213: -803794704245715449
+    second: pizza outbreak logo_12
+  - first:
+      213: -2705552717104652272
+    second: pizza outbreak logo_13
+  - first:
+      213: -8731544379387939371
+    second: pizza outbreak logo_14
+  - first:
+      213: 1478512141131164831
+    second: pizza outbreak logo_15
+  - first:
+      213: 511039023994181181
+    second: pizza outbreak logo_16
+  - first:
+      213: 6905528240069525654
+    second: pizza outbreak logo_17
+  - first:
+      213: -4678101962562438948
+    second: pizza outbreak logo_18
+  - first:
+      213: -941764608713200184
+    second: pizza outbreak logo_19
+  - first:
+      213: 1533059064292452104
+    second: pizza outbreak logo_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pizza outbreak logo_0
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 433
+        width: 422
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892476a779bd4c400800000000000000
+      internalID: 343640915227132568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 425
+        width: 166
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a86e0f194863d50800000000000000
+      internalID: 6716701656616438315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 425
+        width: 144
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8008bae2da4a310800000000000000
+      internalID: 1415446598858574071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_3
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 425
+        width: 164
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052589fe9a30e3c60800000000000000
+      internalID: 7799675633056371280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 425
+        width: 164
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f91acdfcfcaac90800000000000000
+      internalID: -7157680166085222632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_5
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 425
+        width: 178
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a3c2f7cb3569200800000000000000
+      internalID: 186428503635016347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 250
+        width: 121
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc47fbf70934270800000000000000
+      internalID: 8233583422110748480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_7
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 239
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f8e0848a41e380800000000000000
+      internalID: -8943785452022206069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 244
+        width: 69
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c508d31e6ec3f60800000000000000
+      internalID: 8015535291886492788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_9
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 256
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5b90ab2db71fd70800000000000000
+      internalID: 9075170869122807216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 249
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3954bb43bdf50a0800000000000000
+      internalID: -6890547885326888017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_11
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 252
+        width: 88
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d76aa7dd0fcf240800000000000000
+      internalID: 4826997734670499123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_12
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 249
+        width: 90
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e0815a9f858d4f0800000000000000
+      internalID: -803794704245715449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_13
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 252
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01062ef6322f37ad0800000000000000
+      internalID: -2705552717104652272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_14
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 250
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5f50e06a253d680800000000000000
+      internalID: -8731544379387939371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 244
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ca93875fab48410800000000000000
+      internalID: 1478512141131164831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_16
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 236
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d361983e843971700800000000000000
+      internalID: 511039023994181181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_17
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 246
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c5c7e85d55df50800000000000000
+      internalID: 6905528240069525654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_18
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 239
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8786afc0b041fb0800000000000000
+      internalID: -4678101962562438948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_19
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 230
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd6d9bf31e2ee2f0800000000000000
+      internalID: -941764608713200184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pizza outbreak logo_20
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80728d2b815864510800000000000000
+      internalID: 1533059064292452104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pizza outbreak logo_0: 343640915227132568
+      pizza outbreak logo_1: 6716701656616438315
+      pizza outbreak logo_10: -6890547885326888017
+      pizza outbreak logo_11: 4826997734670499123
+      pizza outbreak logo_12: -803794704245715449
+      pizza outbreak logo_13: -2705552717104652272
+      pizza outbreak logo_14: -8731544379387939371
+      pizza outbreak logo_15: 1478512141131164831
+      pizza outbreak logo_16: 511039023994181181
+      pizza outbreak logo_17: 6905528240069525654
+      pizza outbreak logo_18: -4678101962562438948
+      pizza outbreak logo_19: -941764608713200184
+      pizza outbreak logo_2: 1415446598858574071
+      pizza outbreak logo_20: 1533059064292452104
+      pizza outbreak logo_3: 7799675633056371280
+      pizza outbreak logo_4: -7157680166085222632
+      pizza outbreak logo_5: 186428503635016347
+      pizza outbreak logo_6: 8233583422110748480
+      pizza outbreak logo_7: -8943785452022206069
+      pizza outbreak logo_8: 8015535291886492788
+      pizza outbreak logo_9: 9075170869122807216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
