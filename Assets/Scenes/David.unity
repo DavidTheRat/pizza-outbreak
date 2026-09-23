@@ -297,9 +297,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 29553902}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c7508e8a0b731c4da1a0c9ece1df02c, type: 3}
+  m_Script: {fileID: 11500000, guid: 11852fc0a19cba14ba6704f2ef89b45e, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::NewMonoBehaviourScript
+  m_EditorClassIdentifier: '::'
+  moveSpeed: 5
 --- !u!1001 &30936437
 PrefabInstance:
   m_ObjectHideFlags: 0
