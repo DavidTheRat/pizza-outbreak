@@ -224,6 +224,7 @@ GameObject:
   - component: {fileID: 29553908}
   - component: {fileID: 29553910}
   - component: {fileID: 29553911}
+  - component: {fileID: 29553912}
   - component: {fileID: 29553909}
   m_Layer: 0
   m_Name: Player
@@ -524,6 +525,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df68a9b35a149904b8142158eb41ee39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::topdown.movement.cursorrotation
+--- !u!114 &29553912
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 29553902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5872514b188a2d44a1d489775d30fd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::rotator
 --- !u!1001 &30936437
 PrefabInstance:
   m_ObjectHideFlags: 0
