@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: brick wall background-1.png_0
+  m_Name: white boring wall_0
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: -7782588663685759450, guid: 8b91042cf5b592b4fa1403b33a021167, type: 3}
+  m_Sprite: {fileID: -6552518553984286777, guid: 1354376825dd8b044a7cdcc10d770237, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
