@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Menu 2.0 try.unity
+    path: Assets/Scenes/Menu.unity
     guid: fc6dd5101c2a1574698916c500854b1e
   - enabled: 1
     path: Assets/Scenes/Fake scene level.unity
