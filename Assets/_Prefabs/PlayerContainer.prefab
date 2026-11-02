@@ -63,7 +63,7 @@ Transform:
   m_GameObject: {fileID: 4684413379353705105}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 27.990242, y: 1.9356203, z: 10}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -78,8 +78,8 @@ Camera:
   m_GameObject: {fileID: 4684413379353705105}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -104,7 +104,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3.3749876
+  orthographic size: 3
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -262,7 +262,7 @@ MonoBehaviour:
     CustomLookAtTarget: 0
   Lens:
     FieldOfView: 60
-    OrthographicSize: 3.3749876
+    OrthographicSize: 3
     NearClipPlane: 0.3
     FarClipPlane: 1000
     Dutch: 0
@@ -323,6 +323,50 @@ PrefabInstance:
       propertyPath: m_Name
       value: protagonist
       objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_Actions
+      value: 
+      objectReference: {fileID: -944628639613478452, guid: 0303a9d7203ed204dbff4c90d10a53e2, type: 3}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_DefaultActionMap
+      value: 88fa72e1-c507-4b60-add3-7ae56e9511c1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[0].m_ActionId
+      value: 4bf5b2ec-8283-48d6-b1d6-4e9795f8b7d6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[1].m_ActionId
+      value: 96918f1f-396d-4586-97c4-f9982228b7f4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_ActionId
+      value: 7bace4de-3e5c-4964-aa1d-39dbd8ede4f8
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[3].m_ActionId
+      value: f60e1a6a-024b-4519-a101-776dec00e654
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[0].m_ActionName
+      value: 'GamePlay/Move[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[1].m_ActionName
+      value: 'GamePlay/Jump[/Keyboard/space]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[2].m_ActionName
+      value: 'GamePlay/Dash[/Keyboard/leftShift]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7340724445503723932, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_ActionEvents.Array.data[3].m_ActionName
+      value: 'GamePlay/Menu[/Keyboard/escape]'
+      objectReference: {fileID: 0}
     - target: {fileID: 8311913121049656534, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -362,6 +406,22 @@ PrefabInstance:
     - target: {fileID: 8311913121049656534, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318530223328962757, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_Size.x
+      value: 0.705256
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318530223328962757, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_Size.y
+      value: 0.6669462
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318530223328962757, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.022231579
+      objectReference: {fileID: 0}
+    - target: {fileID: 8318530223328962757, guid: f26b9391efc802846baf2fc9313ee102, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.03967607
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
